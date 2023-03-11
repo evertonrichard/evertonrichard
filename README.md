@@ -20,7 +20,8 @@
  
  ## Hey, Devs!!
 
-Tenho 23 anos, moro em São Paulo e sou apaixonado por programação e música, Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  
+Tenho 23 anos, moro em São Paulo e sou apaixonado por programação e música, Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
+ 
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
@@ -31,10 +32,12 @@ Tenho 23 anos, moro em São Paulo e sou apaixonado por programação e música, 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 </br>
 </br>
 
 
 <p align="left">🤿 Faço parte de um programa social para Inglês <a href="https://uk.linkedin.com/company/talktalk">TALKNTALK</a>;</p>
-<p align="left">📚 Estou iniciando meus estudo na programação como Front-Enter;</p>
+<p align="left">📚 Estou iniciando meus estudo na programação como Front-Enter na Ford Academy-Senai;</p>
 <p align="left">📷 Voçê pode me encontrar no meu <a href="https://www.instagram.com/isttommy">Instagram</a> e no <a href="https://br.linkedin.com/in/everton-richard-349a2b254?trk=people-guest_people_search-card">Likendln</a>. Segue lá e vem bater um papo!</p>
