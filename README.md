@@ -43,3 +43,5 @@ Tenho 23 anos, moro em São Paulo e sou apaixonado por programação e música, 
 <p align="left">🤿 Faço parte de um programa social para Inglês <a href="https://uk.linkedin.com/company/talktalk">TALKNTALK</a>;</p>
 <p align="left">📚 Estou iniciando meus estudo na programação como Front-Enter na Ford Academy-Senai;</p>
 <p align="left">📷 Voçê pode me encontrar no meu <a href="https://www.instagram.com/isttommy">Instagram</a> e no <a href="https://br.linkedin.com/in/everton-richard-349a2b254?trk=people-guest_people_search-card">Likendln</a>. Segue lá e vem bater um papo!</p>
+
+![minhoca](https://raw.githubusercontent.com/rick-png/rick-png/output/github-contribution-grid-snake.svg)
