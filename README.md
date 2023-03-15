@@ -13,7 +13,7 @@
   <a href="https://br.linkedin.com/in/everton-richard-349a2b254?trk=people-guest_people_search-card">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
-  <a <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
   </a>
 </div>
  
