@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://images.vexels.com/media/users/3/140800/isolated/preview/86b482aaf1fec78a3c9c86b242c6ada8-avatar-de-perfil-de-homem.png">
+
 
 </br>
 </br>
