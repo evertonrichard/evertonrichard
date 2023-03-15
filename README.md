@@ -22,7 +22,7 @@
  
  ## Hey, Devs!!
 
-Tenho 23 anos, moro em São Paulo e sou apaixonado por programação e música, Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! Estou sempre em busca de aprender e me atualizar com as últimas tendências e ferramentas para desenvolvimento de software, e com isso, trabalhar no campo desenvolvendo minhas habilidades técnicas e interpessoais a fim de contribuir para o sucesso de projetos e equipes.
+Tenho 23 anos, moro em São Paulo e sou apaixonado por programação e música, Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! Estou sempre em busca de aprender e me atualizar com as últimas tendências e ferramentas para desenvolvimento de software, e, com isso, trabalhar no campo desenvolvendo minhas habilidades técnicas e interpessoais a fim de contribuir para o sucesso de projetos e equipes.
  
 
 <p align="center">
@@ -41,7 +41,7 @@ Tenho 23 anos, moro em São Paulo e sou apaixonado por programação e música, 
 
 
 <p align="left">🤿 Faço parte de um programa social para Inglês <a href="https://uk.linkedin.com/company/talktalk">TALKNTALK</a>;</p>
-<p align="left">📚 Estou iniciando meus estudos na programação como Front-Enter na Ford Academy-Senai;</p>
+<p align="left">📚 Estou iniciando meus estudos na programação como Front-End na Ford Academy-Senai;</p>
 <p align="left">📷 Voçê pode me encontrar no meu <a href="https://www.instagram.com/isttommy">Instagram</a> e no <a href="https://br.linkedin.com/in/everton-richard-349a2b254?trk=people-guest_people_search-card">Likendln</a>. Segue lá e vem bater um papo!</p>
 
 ![minhoca](https://raw.githubusercontent.com/rick-png/rick-png/output/github-contribution-grid-snake.svg)
