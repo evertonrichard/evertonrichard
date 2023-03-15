@@ -13,6 +13,8 @@
   <a href="https://br.linkedin.com/in/everton-richard-349a2b254?trk=people-guest_people_search-card">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
+  <a <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  </a>
 </div>
  
  </br>
@@ -20,7 +22,7 @@
  
  ## Hey, Devs!!
 
-Tenho 23 anos, moro em São Paulo e sou apaixonado por programação e música, Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
+Tenho 23 anos, moro em São Paulo e sou apaixonado por programação e música, Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! Estou sempre em busca de aprender e me atualizar com as últimas tendências e ferramentas para desenvolvimento de software, e com isso, trabalhar no campo desenvolvendo minhas habilidades técnicas e interpessoais a fim de contribuir para o sucesso de projetos e equipes.
  
 
 <p align="center">
