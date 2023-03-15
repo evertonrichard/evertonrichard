@@ -22,7 +22,7 @@
  
  ## Hey, Devs!!
 
-Tenho 23 anos, moro em São Paulo e sou apaixonado por programação e música, Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! Estou sempre em busca de aprender e me atualizar com as últimas tendências e ferramentas para desenvolvimento de software, e, com isso, trabalhar no campo desenvolvendo minhas habilidades técnicas e interpessoais a fim de contribuir para o sucesso de projetos e equipes.
+Tenho 24 anos, moro em São Paulo e sou apaixonado por programação e música, Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! Estou sempre em busca de aprender e me atualizar com as últimas tendências e ferramentas para desenvolvimento de software, e, com isso, trabalhar no campo desenvolvendo minhas habilidades técnicas e interpessoais a fim de contribuir para o sucesso de projetos e equipes.
  
 
 <p align="center">
