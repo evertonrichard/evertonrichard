@@ -25,6 +25,8 @@
 Tenho 24 anos, moro em São Paulo e sou apaixonado por programação e música, Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! Estou sempre em busca de aprender e me atualizar com as últimas tendências e ferramentas para desenvolvimento de software, e, com isso, trabalhar no campo desenvolvendo minhas habilidades técnicas e interpessoais a fim de contribuir para o sucesso de projetos e equipes.
 
 
+HEY THERE!
+
 I'm 24 years old, I live in São Paulo and I'm passionate about programming and music, I'm a beginner in the universe of programming, and the more I learn and get angry, the more I love it all! I am always looking to learn and update myself with the latest trends and tools for software development, and with that, work in the field developing my technical and interpersonal skills in order to contribute to the success of projects and teams.
  
 
