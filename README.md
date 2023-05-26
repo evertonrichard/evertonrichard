@@ -42,7 +42,7 @@ I'm 24 years old, I live in São Paulo and I'm passionate about programming and 
 
 <p align="left">📚 I am part of a social community for English. <a href="https://uk.linkedin.com/company/talktalk">TALKNTALK</a>;</p>
 <p align="left">📚Front-End Programming Study at Ford Academy-Senai.;</p>
-<p align="left">📷 You can find me in my <a href="https://www.instagram.com/isttommy">Instagram</a> and <a href="https://br.linkedin.com/in/everton-richard-349a2b254?trk=people-guest_people_search-card">Likendln</a>. Segue lá e vem bater um papo!</p>
+<p align="left">📷 You can find me in my <a href="https://www.instagram.com/isttommy">Instagram</a> and <a href="https://br.linkedin.com/in/everton-richard-349a2b254?trk=people-guest_people_search-card">Likendln</a>. Follow there and come have a chat!</p>
 
 ##
 <p align="center">
