@@ -30,7 +30,7 @@ I'm 24 years old, I live in São Paulo and I'm passionate about programming and 
 </p>
 
 
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ Technology and Tools: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
