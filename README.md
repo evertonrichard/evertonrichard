@@ -49,4 +49,13 @@ I'm 24 years old, I live in São Paulo and I'm passionate about programming and 
 <p align="left">📚 Estudo Programação Front-End na Ford Academy-Senai;</p>
 <p align="left">📷 Voçê pode me encontrar no meu <a href="https://www.instagram.com/isttommy">Instagram</a> e no <a href="https://br.linkedin.com/in/everton-richard-349a2b254?trk=people-guest_people_search-card">Likendln</a>. Segue lá e vem bater um papo!</p>
 
+##
+<p align="center">
+<a href="https://github.com/evertonrichard">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=evertonrichard&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=evertonrichard&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 ![minhoca](https://raw.githubusercontent.com/rick-png/rick-png/output/github-contribution-grid-snake.svg)
