@@ -51,6 +51,6 @@ I'm 24 years old, I live in São Paulo and I'm passionate about programming and 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=evertonrichard&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-##
+
 
 ![minhoca](https://raw.githubusercontent.com/rick-png/rick-png/output/github-contribution-grid-snake.svg)
