@@ -22,7 +22,7 @@
  
  ## Hey, Devs!!
 
-I'm 24 years old, I live in São Paulo and I'm passionate about programming and music, I'm a beginner in the universe of programming, and the more I learn and get angry, the more I love it all! I am always looking to learn and update myself with the latest trends and tools for software development, and with that, work in the field developing my technical and interpersonal skills in order to contribute to the success of projects and teams.
+I'm 24 years old, I live in São Paulo and I'm passionate about programming and music, I'm a beginner in the universe of programming, and the more I learn, the more I love it all! I am always looking to learn and update myself with the latest trends and tools for software development, and with that, work in the field developing my technical and interpersonal skills in order to contribute to the success of projects and teams.
  
 
 <p align="center">
