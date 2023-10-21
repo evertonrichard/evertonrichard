@@ -22,8 +22,9 @@
  
  ## Hey, Devs!!
 
-I'm 24 years old, I live in São Paulo and I'm passionate about programming and music, I'm a beginner in the universe of programming, and the more I learn, the more I love it all! I am always looking to learn and update myself with the latest trends and tools for software development, and with that, work in the field developing my technical and interpersonal skills in order to contribute to the success of projects and teams.
- 
+Educated at Ford Academy-Senai, I am interested in IT and everything in its orbit. Recently I was invited to join the company Fastcash, a financial institution where I work in the technology sector creating applications and web development with a focus on user experience, among other sectors and areas of the company's technology, where I am developing experiences and stories.
+
+I am always looking to learn and update myself with the latest trends and tools for software development and, with this, work in the field developing my technical and interpersonal skills in order to contribute to the success of projects and teams.
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
